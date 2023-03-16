@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Kanto"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/Kanto" />
+        <item
+            android:id="@+id/Johto"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/Johto" />
+        <item
+            android:id="@+id/Hoenn"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/Hoenn" />
+
+        <item
+            android:id="@+id/Sinnoh"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/Sinnoh" />
+
+        <item
+            android:id="@+id/Unima"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/Unima" />
+
+        <item
+            android:id="@+id/Kalos"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/Kalos" />
+
+        <item
+            android:id="@+id/Alola"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/Alola" />
+
+        <item
+            android:id="@+id/Galar"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/Galar" />
+        <item
+            android:id="@+id/Paldea"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/Paldea" />
+
+    </group>
+</menu>

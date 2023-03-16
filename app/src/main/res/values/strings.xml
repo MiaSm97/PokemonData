@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PokemonData</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="pokemon_data">Pokemon Data</string>
+    <string name="Kanto">Kanto</string>
+    <string name="Johto">Johto</string>
+    <string name="Hoenn">Hoenn</string>
+    <string name="Sinnoh">Sinnoh</string>
+    <string name="Unima">Unima</string>
+    <string name="Kalos">Kalos</string>
+    <string name="Alola">Alola</string>
+    <string name="Galar">Galar</string>
+    <string name="Paldea">Paldea</string>
+</resources>
